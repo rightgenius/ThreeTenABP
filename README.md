@@ -3,6 +3,8 @@ ThreeTen Android Backport
 
 An adaptation of the JSR-310 backport for Android.
 
+Change min-sdk version to 10 by nius.
+
 
 
 Usage
